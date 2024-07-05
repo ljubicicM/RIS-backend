@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TeretanaApplication<teretana>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.teretana.TeretanaApplication",
+            "projectName": "teretana",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
